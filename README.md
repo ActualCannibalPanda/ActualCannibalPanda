@@ -23,10 +23,10 @@ My curiosity drives me to learn and understand the intricacies of various progra
 He/Him
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CultistGameDev&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ActualCannibalPanda&show_icons=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CultistGameDev&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ActualCannibalPanda&layout=compact)
 
 ## Roadmap.sh
 [![roadmap.sh](https://roadmap.sh/card/tall/675175255039431075ad3a74?variant=dark&roadmaps=devops%2Clinux)](https://roadmap.sh)
