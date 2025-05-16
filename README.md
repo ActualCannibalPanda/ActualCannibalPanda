@@ -17,7 +17,7 @@ My curiosity drives me to learn and understand the intricacies of various progra
 
 ## Connect With Me
 - Mastodon: [@boethiah@mastodon.gamedev.place](https://mastodon.gamedev.place/@boethiah)
-- Bluesky: [@cultistgamedev.bsky.social](https://bsky.app/profile/actualcanblpanda.bsky.social)
+- Bluesky: [@actualcannibalpanda.itch.io](https://bsky.app/profile/actualcannibalpanda.itch.io)
 
 ## Pronouns
 He/Him
